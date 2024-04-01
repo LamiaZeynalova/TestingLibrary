@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: orange;
+    text-align: center;
+}
+.todo{
+    border: 1px solid;
+    background-color: rgb(144, 107, 39);
+    width: 60%;
+    margin-left:20%;
+    margin-top: 60px;
+    padding-bottom: 60px;
+}
+ ul{
+    list-style: none;
+ }
+h2{
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
